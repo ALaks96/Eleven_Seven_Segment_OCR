@@ -1,4 +1,4 @@
-# Eleven_Seven_Segment_OCR
+# Eleven Seven Segment OCR
 
 This repo contains the data, model and development of a project I did in the context of my Msc with my colleagues for a data science business project involving Eleven Strategy. 
 
